@@ -1,4 +1,4 @@
-# Time-Series-Data-Analysis-For-Air-Quality-using-Auto-Regressive-Model and Mongo database
+# Time-Series-Data-Analysis-For-Air-Quality-using-Auto-Regressive-Model-and-Mongo-database
 Dar es Salaam Air Quality Analysis and Time Series Modeling
 by Sileshi N
 This repository contains data collection, cleaning and analyses of air quality data of Dar es Salaam in 2018. We used the data from twelve sites located in around Beijing's city center.
